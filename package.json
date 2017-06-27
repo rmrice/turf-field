@@ -1,0 +1,26 @@
+{
+  "name": "turf-field",
+  "version": "1.0.0",
+  "description": "a place for doing turf calcs and things",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rmrice/turf-field.git"
+  },
+  "keywords": [
+    "turf"
+  ],
+  "author": "Rebecca Rice",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rmrice/turf-field/issues"
+  },
+  "homepage": "https://github.com/rmrice/turf-field#readme",
+  "dependencies": {
+    "@turf/area": "^4.4.0",
+    "csv-write-stream": "^2.0.0"
+  }
+}
